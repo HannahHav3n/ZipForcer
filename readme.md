@@ -13,8 +13,8 @@ succesfully unzips it it will stop the program and print the password
 # Installation
 
 Run `pip install -r requirements.txt` to install nescessary libraries\
-Then run python `python ZipForcer.py` to run the actual code.\
+Then run python `python ZipForcer.py` to run the actual code.
 
 You will need a password wordlist, a common one called `fasttrack.txt`\
 this is a shortened version of the famous `rockyou.txt` which can be found\
-here [https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt](Rockyou.txt).
+here https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt.
